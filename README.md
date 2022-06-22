@@ -5,5 +5,5 @@
 
 # Sommaire
 
-Je travaille principalement sur Python que j'ai utilisé pour créer une série de scripts permettant de fluidifier mes recherches de [*Stage*](https://github.com/j-santillan-cruz/projects/tree/main/stage)
-Au cours de mes études j'ai eu l'opportunité de travailler le langage R appliqué à la data science. Vous trouverez cela dans le dossier [*Data Science*](https://github.com/j-santillan-cruz/projects/tree/main/data%20science)
+Je travaille principalement sur Python que j'ai utilisé pour créer une série de scripts permettant de fluidifier mes recherches de [*Stage*](https://github.com/j-santillan-cruz/projects/tree/main/stage)<br>
+Au cours de mes études j'ai eu l'opportunité de travailler le langage R appliqué à la data science. Vous trouverez le projet de groupe dans le dossier [*Data Science*](https://github.com/j-santillan-cruz/projects/tree/main/data%20science)
